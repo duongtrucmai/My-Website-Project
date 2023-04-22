@@ -157,6 +157,23 @@ var key =Event.which|| Event.keyCode;
 		"photo":"image/PowerOfLove.jpg"	},
 
 
+	//Face The Sun
+	"spFaceTheSun":{
+		"name": "Face The Sun", "price":420000,
+		"photo":"image/FaceTheSun.jfif"	},
+
+
+	//Sector 17
+	"spSector17":{
+		"name": "Sector 17", "price":400000,
+		"photo":"image/Sector17.jpg"	},
+
+	//Second Wind
+	"spSecondWind":{
+		"name": "Second Wind", "price":350000,
+		"photo":"image/SecondWind.jpg"	},
+
+
 
 	//LIGHTSTICK
 
@@ -187,6 +204,11 @@ var key =Event.which|| Event.keyCode;
 	"spSogo":{
 		"name": "SEVENTEEN - SOGO", "price":950000,
 		"photo":"lightstick/Sogo.jpg"	},
+
+	//Carat Bong Ver.3
+	"spCaratBongVer3":{
+		"name": "Carat Bong  Ver.3", "price":980000,
+		"photo":"lightstick/CaratBongVer3.jpg"	},
 
 
 	//CARDS
@@ -271,6 +293,64 @@ var key =Event.which|| Event.keyCode;
 		"name": "Netflix Cards", "price":200000,
 		"photo":"cards/NetflixCards.jpg"	},
 
+    //CARDS
+
+	//Carat Land
+	"spCaratLand2023":{
+		"name": "CaratLand Cards 2023", "price":250000,
+		"photo":"cards/CaratLand2023.jpg"	},
+
+    //CARDS
+
+	//BSS
+	"spBSSCard":{
+		"name": "BSS Official Merch", "price":190000,
+		"photo":"cards/BSS.jpg"	},
+
+	
+	//CARDS
+
+	//Face The Sun
+	"spFTSCard":{
+		"name": "Face The Sun Cards", "price":200000,
+		"photo":"cards/FTSCard.jpg"	},
+
+
+	//CARDS
+
+	//Sector 17
+	"spSector17Card":{
+		"name": "Sector 17 Cards", "price":200000,
+		"photo":"cards/Sector17.jpg"	},
+
+	//CARDS
+
+	//Season Greeting
+	"spSGCard":{
+		"name": "Season Greeting Cards", "price":200000,
+		"photo":"cards/SeasonGreeting.jpg"	},
+
+    //CARDS
+
+	//Jeong Han
+	"spJeongHan":{
+		"name": "JeongHan' Day Cards ", "price":150000,
+		"photo":"cards/JeongHanBD.jpg"	},
+
+	//CARDS
+
+	//In the SOOP
+	"spITS":{
+		"name": "In the SOOP Photocard Set ", "price":200000,
+		"photo":"cards/InTheSoop.jpg"	},
+
+
+	//CARDS
+
+	//WorldTourCards
+	"spWorldTourCards":{
+		"name": "World Tour Cards", "price":200000,
+		"photo":"cards/WorldTourCards.jpg"	},
 
 
 	//Goods KPOP
@@ -328,6 +408,93 @@ var key =Event.which|| Event.keyCode;
 	"spBackpack":{
 		"name": "Backpack", "price":240000,
 		"photo":"goods/Backpack.jpg"	},
+
+	//Goods KPOP
+
+	//ViVi
+	"spViVi":{
+		"name": "ViVi Magazine", "price":500000,
+		"photo":"goods/ViViMagazine.jpg"	},
+
+	//Goods KPOP
+
+	//Calendar
+	"spCalendar":{
+		"name": "2023 Calendar", "price":150000,
+		"photo":"goods/Calendar.jpg"	},
+
+	//Goods KPOP
+
+	//Merchandise
+	"spMerchandise":{
+		"name": "Merchandise", "price":500000,
+		"photo":"goods/Merchandise.jpg"	},
+
+	//Goods KPOP
+
+	//Standee
+	"spStandee":{
+		"name": "Standee", "price":100000,
+		"photo":"goods/Standee.jpg"	},
+
+
+	//Goods KPOP
+
+	//WristBand
+	"spWristBand":{
+		"name": "WristBand", "price":70000,
+		"photo":"goods/WristBand.jpg"	},
+
+	//Goods KPOP
+
+	//Area
+	"spArea":{
+		"name": "Area Magazine", "price":450000,
+		"photo":"goods/Area.jpg"	},
+
+	//Goods KPOP
+
+	//MaskingTape
+	"spMaskingTape":{
+		"name": "Masking Tape", "price":700000,
+		"photo":"goods/MaskingTape.jpg"	},
+
+
+	//Goods KPOP
+
+	//Cubeme
+	"spCubeme":{
+		"name": "Cubeme- Thực phẩm bổ sung", "price":220000,
+		"photo":"goods/Cubeme.jpg"	},
+
+	//Goods KPOP
+
+	//StraightCup
+	"spStraightCup":{
+		"name": "Straight Cup", "price":50000,
+		"photo":"goods/StraightCup.jpg"	},
+
+	//Goods KPOP
+
+	//PhotobookYouAreInUs
+	"spPhotobookYouAreInUs":{
+		"name": "Photobook: You Are In Us", "price":450000,
+		"photo":"goods/PhotobookYouAreInUs.jpg"	},
+
+	//Goods KPOP
+
+	//MemoryBook
+	"spMemoryBook":{
+		"name": "Memory Book", "price":450000,
+		"photo":"goods/MemoryBook.jpg"	},
+
+
+	//Goods KPOP
+
+	//SEVENTEENConcert
+	"spSEVENTEENConcert":{
+		"name": "SEVENTEEN Concert", "price":500000,
+		"photo":"goods/SEVENTEENConcert.jpg"	},
 
 
 	//Goods Anime
@@ -409,6 +576,83 @@ var key =Event.which|| Event.keyCode;
 		"name": "Figure Sasuke", "price":1000000,
 		"photo":"animegoods/FigureSasuke.jpg"	},
 
+	//Goods Anime
+
+	//Figure Sesshomaru
+	"spFigureSesshomaru":{
+		"name": "Figure Sesshomaru", "price":1000000,
+		"photo":"animegoods/FigureSesshomaru.jpg"	},
+
+	//Goods Anime
+
+	//Figure Law
+	"spFigureLaw":{
+		"name": "Figure Law", "price":300000,
+		"photo":"animegoods/FigureLaw.png"	},
+
+
+	//Goods Anime
+
+	//Dragon Ball
+	"spDragonBall":{
+		"name": "Combo hộp 7 viên Dragon Ball", "price":120000,
+		"photo":"animegoods/DragonBall.jfif"	},
+
+
+	//Goods Anime
+
+	//Figure Goku
+	"spFigureGoku":{
+		"name": "Figure Son Goku", "price":100000,
+		"photo":"animegoods/Figure Goku.jpg"	},
+
+
+	//Goods Anime
+
+	//Figure Vegeta
+	"spFigureVegeta":{
+		"name": "Figure Vegeta", "price":100000,
+		"photo":"animegoods/FigureVegeta.jpg"	},
+
+
+	//Goods Anime
+
+	//Figure Son Gohan
+	"spFigureSonGohan":{
+		"name": "Figure Son Gohan", "price":100000,
+		"photo":"animegoods/FigureSonGohan.jpg"	},
+
+
+	//Goods Anime
+
+	//Mochi Naruto
+	"spMochiNaruto":{
+		"name": "Mochi Naruto", "price":600000,
+		"photo":"animegoods/MochiNaruto.jpg"	},
+
+
+	//Goods Anime
+
+	//Lego One Piece
+	"spLegoOnePiece":{
+		"name": "Lego One Piece", "price":60000,
+		"photo":"animegoods/LegoOnePiece.jfif"	},
+
+
+	//Goods Anime
+
+	//Sticker InuYasha
+	"spStickerInuYasha":{
+		"name": "Sticker InuYasha", "price":50000,
+		"photo":"animegoods/StickerInuYasha.jpeg"	},
+
+		
+	//Goods Anime
+
+	//Pin Dragon Ball
+	"spStickerInuYasha":{
+		"name": "Pin Dragon Ball", "price":20000,
+		"photo":"animegoods/PinDragonBall.jpg"	},
 
 	//SALE
 
@@ -446,6 +690,25 @@ var key =Event.which|| Event.keyCode;
 	"spConan10017K":{
 		"name": "Conan 100 (Sale 17K)", "price":17000,
 		"photo":"animegoods/Conan100.png"	},
+
+	//Sale
+	"spCalendar17K":{
+		"name": "2023 Calendar (Sale 17K)", "price":17000,
+		"photo":"goods/Calendar.jpg"	},
+
+	//Sale
+
+	//Sticker InuYasha
+	"spStickerInuYasha17K":{
+		"name": "Sticker InuYasha (Sale 17K)", "price":17000,
+		"photo":"animegoods/StickerInuYasha.jpeg"	},
+
+	//Sale
+
+	//WristBand
+	"spWristBand17K":{
+		"name": "WristBand (Sale 17K)", "price":17000,
+		"photo":"goods/WristBand.jpg"	},
 
 
 	
